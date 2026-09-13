@@ -1,2 +1,2 @@
 # hitomi
-hitomi.la
+hitomi.la new website: https://hitomi.lol
